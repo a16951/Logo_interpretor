@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\joao\Desktop\VC-TP1_16949_16951\TrabalhoVCFINAL\TrabalhoVisao\main.c(187,7): warning C4013: 'system' undefined; assuming extern returning int
+  TrabalhoVisao.vcxproj -> C:\Users\joao\Desktop\VC-TP1_16949_16951\TrabalhoVCFINAL\Debug\TrabalhoVisao.exe
